@@ -69,7 +69,7 @@ alert('Boas    vindas ao numero secreto');
           }
     
     
-        }   //tentativas = tentativas + 1;
+        }   tentativas = tentativas + 1;
     
     
      
