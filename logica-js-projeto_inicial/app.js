@@ -1,5 +1,4 @@
-alert('Boas
-  vindas ao numero secreto');
+alert('Boas vindas ao numero secreto');
   let
   numeroSecreto = 6;
   
