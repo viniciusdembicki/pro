@@ -1,5 +1,4 @@
-while
-(chute != numeroSecreto)
+
 
 alert('Boas
   vindas ao numero secreto');
