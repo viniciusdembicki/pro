@@ -1,12 +1,16 @@
 alert('Boas vindas ao numero secreto');
-  let
-  numeroSecreto = 6;
   
   
-  console.log(numeroSecreto)
+  let numeroSecreto = 6;
   
   
-  let = chute
+  console.log(numeroSecreto);
+  
+  
+  let chute;
+  
+  
+  let tentativas = 1;
   
   
    
@@ -32,8 +36,7 @@ alert('Boas vindas ao numero secreto');
   
   
    
-        alert(`Isso aí! Você descobriu o número secreto
-  ${numeroSecreto}`);
+        alert(`Isso aí! Você descobriu o número secreto  ${numeroSecreto} com ${tentativas} tentativas.`);
   
   
    
@@ -63,8 +66,11 @@ alert('Boas vindas ao numero secreto');
         }
   
   
+      }   //tentativas = tentativas + 1;
+  
+  
    
-    }
+        tentativas++;
   
   
   }
