@@ -1,5 +1,3 @@
-
-
 alert('Boas
   vindas ao numero secreto');
   let
@@ -9,7 +7,7 @@ alert('Boas
   console.log(numeroSecreto)
   
   
-  let chute
+  let = chute
   
   
    
